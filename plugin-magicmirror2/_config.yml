@@ -1,6 +1,6 @@
 ---
 langs: [fr_FR]
-baseurl: "/plugin-magicmirror2/"
+baseurl: "/"
 sass:
   sass_dir: assets/css
   style: compressed
