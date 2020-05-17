@@ -1,6 +1,6 @@
 ### Plugin MagicMirror²
 
-![Icon](magicmirror2_icon.png =100x100)
+![Icon](magicmirror2_icon.png){:height="50%" width="50%"}
 
 ## C'est quoi MagicMirror² ?
 
