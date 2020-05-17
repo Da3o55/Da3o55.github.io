@@ -53,29 +53,29 @@ Pour pouvoir sauvegarder votre objet, il faudra obligatoirement, l'ip, avoir tes
 
 ## Les commandes
 
-- Eteindre : Exécute un arrêt de l'équipement (shutdown)
+- **Eteindre** : Exécute un arrêt de l'équipement (shutdown)
 
-- Redémarer : Redémarer l'équippement (reboot)
+- **Redémarer** : Redémarer l'équippement (reboot)
 
-- Remote.html : Ouvre la page de menu du module MMM-Remote-Control installé sur le MagicMirror²
+- **Remote.html** : Ouvre la page de menu du module MMM-Remote-Control installé sur le MagicMirror²
 
-- Rafrachir HTML : Recharge la page d'afficage du MagicMirror².
+- **Rafrachir HTML** : Recharge la page d'afficage du MagicMirror².
 
-- Recharger : Recharge le programme MagicMirror² sur l'équipement distant.
+- **Recharger** : Recharge le programme MagicMirror² sur l'équipement distant.
 
-- Rafraichir : Rafraichit l'affichage et les données de la tuile jeedom de l'équipement.
+- **Rafraichir** : Rafraichit l'affichage et les données de la tuile jeedom de l'équipement.
 
-- Statut: Affiche le statut global de l'équipement (get http)
+- **Statut** : Affiche le statut global de l'équipement (get http)
 
-- Affichage : Statut de l'affichage de l'équipement distant.
+- **Affichage** : Statut de l'affichage de l'équipement distant.
 
-- Masquer laffichage : Afficher ou Masquer l'affichage distant.
+- **Masquer laffichage** : Afficher ou Masquer l'affichage distant.
 
-- Notification : Envoie une notification vers l'équipement, ALERT ou NOTIFICATION en fonction de la configuration de votre objet dans Jeedom.
+- **Notification** : Envoie une notification vers l'équipement, ALERT ou NOTIFICATION en fonction de la configuration de votre objet dans Jeedom.
 
-- Fond décran : Statut du fond d'écran de l'équipement distant.
+- **Fond décran** : Statut du fond d'écran de l'équipement distant.
 
-- Masquer fond décran : Afficher ou Masquer le fond d'écran sur l'équipement distant.
+- **Masquer fond décran** : Afficher ou Masquer le fond d'écran sur l'équipement distant.
 
 
 ## Exemple d'utilisation dans un scénario
