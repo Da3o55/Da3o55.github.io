@@ -1,4 +1,5 @@
-### ![Présentation](fr_FR/plugin_magicmirror2/magicmirror2_icon.png) Plugin MagicMirror²
+### Plugin MagicMirror²
 
+![Présentation](magicmirror2_icon.png)
 
 Ici c'est MagicMirror² !
