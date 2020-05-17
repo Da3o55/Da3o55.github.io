@@ -7,7 +7,7 @@ var docMenu = [
     es_ES : "Plugin MagicMirror²",
     de_DE : "Plugin MagicMirror²",
     pt_PT : "Plugin MagicMirror²",
-	link : "/#LANG#/plugin_magicmirror2"
+	link : "/#LANG#/plugin_magicmirror2/"
   },
 ]
 
