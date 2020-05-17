@@ -1,4 +1,4 @@
-### Plugin MagicMirror² by Da3o55
+### Plugin MagicMirror²
 
 ![Icon](magicmirror2_icon.png)
 
@@ -85,7 +85,7 @@ Bientôt...
 
 ## Problème(s) connu(s)
 
-# Restart fail
+## Restart fail
 
 Côté MagicMirror² :
 >cd ~/MagicMirror/modules/MMM-Remote-Control
