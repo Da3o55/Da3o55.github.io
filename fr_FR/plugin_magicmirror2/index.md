@@ -5,10 +5,10 @@
 ## C'est quoi MagicMirror² ?
 
 C'est un developpement opensource permettant des projet DIY de type mirror magic.
-Pour plus d'information : MagicMirror²(https://magicmirror.builders/)
+Pour plus d'information : [MagicMirror²](https://magicmirror.builders/)
 
 De nombreux modules permettrant d'étentre les fonctionnalités existent.
-Modules pour MagicMirror²(https://github.com/MichMich/MagicMirror/wiki/3rd-party-modules)
+[Modules pour MagicMirror²](https://github.com/MichMich/MagicMirror/wiki/3rd-party-modules)
 
 ## Pré-requis
 
@@ -50,6 +50,35 @@ Ensuite, les élements de configuration spécifique à ce MagicMirror².
 ![doc3](images/doc3.png)
 
 Pour pouvoir sauvegarder votre objet, il faudra obligatoirement, l'ip, avoir testé avec succès la disponibilité de l'api, le délai de la notification.
+
+## Les commandes
+
+- Eteindre : Exécute un arrêt de l'équipement (shutdown)
+
+- Redémarer : Redémarer l'équippement (reboot)
+
+- Remote.html : Ouvre la page de menu du module MMM-Remote-Control installé sur le MagicMirror²
+
+- Rafrachir HTML : Recharge la page d'afficage du MagicMirror².
+
+- Recharger : Recharge le programme MagicMirror² sur l'équipement distant.
+
+- Rafraichir : Rafraichit l'affichage et les données de la tuile jeedom de l'équipement.
+
+- Statut: Affiche le statut global de l'équipement (get http)
+
+- Affichage : Statut de l'affichage de l'équipement distant.
+
+- Masquer laffichage : Afficher ou Masquer l'affichage distant.
+
+- Notification : Envoie une notification vers l'équipement, ALERT ou NOTIFICATION en fonction de la configuration de votre objet dans Jeedom.
+
+- Fond décran : Statut du fond d'écran de l'équipement distant.
+
+- Masquer fond décran : Afficher ou Masquer le fond d'écran sur l'équipement distant.
+
+
+## Exemple d'utilisation dans un scénario
 
 
 ## Problème(s) connu(s)
