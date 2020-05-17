@@ -1,4 +1,4 @@
-### Plugin MagicMirror²
+# Plugin MagicMirror²
 
 ![Icon](magicmirror2_icon.png){:height="100px" width="100px"}
 
