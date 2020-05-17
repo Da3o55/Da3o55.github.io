@@ -1,6 +1,6 @@
 ### Changelog - Plugin MagicMirror²
 
-![Icon](magicmirror2_icon.png)
+![Icon](magicmirror2_icon.png =150x)
 
 ## 17/05/2020
 
