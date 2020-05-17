@@ -1,6 +1,6 @@
 ### Plugin MagicMirror²
 
-![Icon](magicmirror2_icon.png =100px)
+![Icon](magicmirror2_icon.png =100x100)
 
 ## C'est quoi MagicMirror² ?
 
