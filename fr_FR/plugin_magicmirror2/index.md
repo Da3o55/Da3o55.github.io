@@ -29,6 +29,7 @@ Pas de configuration particulière pour ce plugin.
 ## Ajout d'un nouveau MagicMirror²
 
 Cliques sur "Ajouter", puis saisis le nom de ton objet
+
 ![doc1](images/doc1.png)
 
 ![doc2](images/doc2.png)
