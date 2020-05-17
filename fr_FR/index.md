@@ -1,4 +1,4 @@
-### Plugin MagicMirro&
+### Accueil
 
 
-Ici c'est MagicMirror² !
+Bonjour !
