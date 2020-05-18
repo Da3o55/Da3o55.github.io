@@ -2,25 +2,28 @@
 
 ![Icon](magicmirror2_icon.png){:height="100px" width="100px"}
 
+[ChangeLog](changelog)
+
 ## C'est quoi MagicMirror² ?
 
-C'est un developpement opensource permettant des projet DIY de type mirror magic.
-Pour plus d'information : [MagicMirror²](https://magicmirror.builders/)
+C'est un developpement opensource permettant des projets DIY de type mirroir magic.
+Pour plus d'informations : [MagicMirror²](https://magicmirror.builders/)
 
-De nombreux modules permettrant d'étentre les fonctionnalités existent.
+De nombreux modules permettent d'étentre les fonctionnalités.
 [Modules pour MagicMirror²](https://github.com/MichMich/MagicMirror/wiki/3rd-party-modules)
 
 ## Pré-requis
 
 Pour utiliser ce plugin sous jeedom vous devez disposer d'au moins un objet connecté de type MagicMirror².
 Il vous faudra également avoir installé, configuré et vérifié le bon fonctionne du plugin MMM-Remote-Control.
+Ce plugin utilise l'api du module MMM-Remote-Control pour communiquer avec l'équipement.
 
 Cette documentation ne traite en aucun le périmettre du MagicMirror² !
 
-## Intallation du plugin
+## Installation du plugin
 
 Le plugin est pour le moment en béta, il faudra donc activer la possibilité d'installer ces versions sur votre Jeedom.
-Pour cela la document de jeedom est disponible.
+Pour cela la documentation de jeedom est disponible.
 
 ## Configuration
 
@@ -28,15 +31,15 @@ Pas de configuration particulière pour ce plugin.
 
 ## Ajout d'un nouveau MagicMirror²
 
-Cliques sur "Ajouter", puis saisis le nom de ton objet
+Cliquez sur "Ajouter", puis saisir le nom de l'objet
 
 ![doc1](images/doc1.png)
 
 ![doc2](images/doc2.png)
 
-Une fois l'objet créé, configuré celui-ci.
+Une fois l'objet créé, configurez celui-ci.
 
-Dans un premier temps tu retrouveras les élements classiques d'un objet Jeedom.
+Dans un premier temps vous retrouverez les élements classiques d'un objet Jeedom.
 - Son nom
 - L'oject parent
 - Catégorie
@@ -79,6 +82,7 @@ Pour pouvoir sauvegarder votre objet, il faudra obligatoirement, l'ip, avoir tes
 - **Masquer fond décran** : Afficher ou Masquer le fond d'écran sur l'équipement distant.
 
 
+
 ## Exemple d'utilisation dans un scénario
 
 Bientôt...
@@ -89,6 +93,6 @@ Bientôt...
 
 Côté MagicMirror² :
 >cd ~/MagicMirror/modules/MMM-Remote-Control
->npm link pm2
+npm link pm2
 
 
