@@ -92,10 +92,16 @@ Bientôt...
 
 ## Problème(s) connu(s)
 
-## Restart fail
+### Restart fail
 
 Côté MagicMirror² :
->cd ~/MagicMirror/modules/MMM-Remote-Control
-npm link pm2
+> cd ~/MagicMirror/modules/MMM-Remote-Control
+> npm link pm2
+
+
+
+
+
+
 
 
