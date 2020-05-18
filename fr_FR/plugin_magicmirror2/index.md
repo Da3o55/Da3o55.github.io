@@ -81,6 +81,9 @@ Pour pouvoir sauvegarder votre objet, il faudra obligatoirement, l'ip, avoir tes
 
 - **Masquer fond décran** : Afficher ou Masquer le fond d'écran sur l'équipement distant.
 
+## Le widget
+
+![tuile](images/tuile.png)
 
 
 ## Exemple d'utilisation dans un scénario
