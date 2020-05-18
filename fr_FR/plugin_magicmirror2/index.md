@@ -90,15 +90,6 @@ Pour pouvoir sauvegarder votre objet, il faudra obligatoirement, l'ip, avoir tes
 
 Bientôt...
 
-## Problème(s) connu(s)
-
-### Restart fail
-
-Côté MagicMirror² :
-> cd ~/MagicMirror/modules/MMM-Remote-Control
-> npm link pm2
-
-
 
 
 

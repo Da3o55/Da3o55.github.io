@@ -6,3 +6,7 @@
 
 - Modification de lien vers la documentation
 - Modification du lien vers le changelog
+
+## 14/05/2020
+
+- Publication de la béta
