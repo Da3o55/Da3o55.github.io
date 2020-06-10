@@ -4,6 +4,11 @@
 
 ## 06/06/2020
 
+- Correction de la taille de l'icone
+
+
+## 06/06/2020
+
 - Correction de la commande refresh (provoque une erreur 500 à la sauvegarde de l'objet)
 
 ## 17/05/2020
