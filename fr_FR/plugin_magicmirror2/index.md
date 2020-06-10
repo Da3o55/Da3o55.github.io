@@ -94,7 +94,8 @@ Pour pouvoir sauvegarder votre objet, il faudra obligatoirement, l'ip, avoir tes
 L'erreur peut provenir de votre MagicMirror².
 
 Dans les logs de ce dernier vous devriez constater les lignes suivantes:
->0|mm  | [2020-06-07 12:47:44.515] [ERROR]  
+'''
+0|mm  | [2020-06-07 12:47:44.515] [ERROR]  
 0|mm  | Error: Cannot find module 'pm2'
 0|mm  | Require stack:
 0|mm  | - /home/pi/MagicMirror/modules/MMM-Remote-Control/node_helper.js
@@ -111,8 +112,8 @@ Dans les logs de ce dernier vous devriez constater les lignes suivantes:
 0|mm  |     at Class.controlPm2 (/home/pi/MagicMirror/modules/MMM-Remote-Control/node_helper.js:867:23)
 0|mm  |     at Class.executeQuery (/home/pi/MagicMirror/modules/MMM-Remote-Control/node_helper.js:654:22)
 0|mm  |     at /home/pi/MagicMirror/modules/MMM-Remote-Control/node_helper.js:152:39
-0|mm  |     at Layer.handle [as handle_request] (/home/pi/MagicMirror/node_modules/express/lib/router/layer.js:95:5)<
-
+0|mm  |     at Layer.handle [as handle_request] (/home/pi/MagicMirror/node_modules/express/lib/router/layer.js:95:5)
+'''
 Voici la commande à executé dans le répertoire du module MMM-Remote-Control côté MagicMirror² :
 
 >npm link pm2
