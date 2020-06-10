@@ -95,23 +95,23 @@ L'erreur peut provenir de votre MagicMirror².
 
 Dans les logs de ce dernier vous devriez constater les lignes suivantes:
 >0|mm  | [2020-06-07 12:47:44.515] [ERROR]  
->0|mm  | Error: Cannot find module 'pm2'
->0|mm  | Require stack:
->0|mm  | - /home/pi/MagicMirror/modules/MMM-Remote-Control/node_helper.js
->0|mm  | - /home/pi/MagicMirror/js/app.js
->0|mm  | - /home/pi/MagicMirror/js/electron.js
->0|mm  | - /home/pi/MagicMirror/node_modules/electron/dist/resources/default_app.asar/main.js
->0|mm  | - 
->0|mm  |     at Module._resolveFilename (internal/modules/cjs/loader.js:627:15)
->0|mm  |     at Function.Module._resolveFilename (/home/pi/MagicMirror/node_modules/electron/dist/resources/electron.asar/common/reset-search-paths.js:41:16)
-<0|mm  |     at Function.Module._resolveFilename (/home/pi/MagicMirror/node_modules/module-alias/index.js:49:29)
->0|mm  |     at Function.Module._load (internal/modules/cjs/loader.js:531:27)
-<0|mm  |     at Module.require (internal/modules/cjs/loader.js:685:19)
->0|mm  |     at require (internal/modules/cjs/helpers.js:16:16)
->0|mm  |     at Class.controlPm2 (/home/pi/MagicMirror/modules/MMM-Remote-Control/node_helper.js:867:23)
->0|mm  |     at Class.executeQuery (/home/pi/MagicMirror/modules/MMM-Remote-Control/node_helper.js:654:22)
->0|mm  |     at /home/pi/MagicMirror/modules/MMM-Remote-Control/node_helper.js:152:39
-<0|mm  |     at Layer.handle [as handle_request] (/home/pi/MagicMirror/node_modules/express/lib/router/layer.js:95:5)
+0|mm  | Error: Cannot find module 'pm2'
+0|mm  | Require stack:
+0|mm  | - /home/pi/MagicMirror/modules/MMM-Remote-Control/node_helper.js
+0|mm  | - /home/pi/MagicMirror/js/app.js
+0|mm  | - /home/pi/MagicMirror/js/electron.js
+0|mm  | - /home/pi/MagicMirror/node_modules/electron/dist/resources/default_app.asar/main.js
+0|mm  | - 
+0|mm  |     at Module._resolveFilename (internal/modules/cjs/loader.js:627:15)
+0|mm  |     at Function.Module._resolveFilename (/home/pi/MagicMirror/node_modules/electron/dist/resources/electron.asar/common/reset-search-paths.js:41:16)
+0|mm  |     at Function.Module._resolveFilename (/home/pi/MagicMirror/node_modules/module-alias/index.js:49:29)
+0|mm  |     at Function.Module._load (internal/modules/cjs/loader.js:531:27)
+0|mm  |     at Module.require (internal/modules/cjs/loader.js:685:19)
+0|mm  |     at require (internal/modules/cjs/helpers.js:16:16)
+0|mm  |     at Class.controlPm2 (/home/pi/MagicMirror/modules/MMM-Remote-Control/node_helper.js:867:23)
+0|mm  |     at Class.executeQuery (/home/pi/MagicMirror/modules/MMM-Remote-Control/node_helper.js:654:22)
+0|mm  |     at /home/pi/MagicMirror/modules/MMM-Remote-Control/node_helper.js:152:39
+0|mm  |     at Layer.handle [as handle_request] (/home/pi/MagicMirror/node_modules/express/lib/router/layer.js:95:5)<
 
 Voici la commande à executé dans le répertoire du module MMM-Remote-Control côté MagicMirror² :
 
