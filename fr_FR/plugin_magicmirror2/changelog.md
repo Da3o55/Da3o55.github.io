@@ -2,6 +2,10 @@
 
 ![Icon](magicmirror2_icon.png){:height="100px" width="100px"}
 
+## 24/06/2020
+
+- Modification de l'icone pour passage en stable
+
 ## 06/06/2020
 
 - Correction de la taille de l'icone
