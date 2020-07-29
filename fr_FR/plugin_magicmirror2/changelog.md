@@ -2,6 +2,10 @@
 
 ![Icon](magicmirror2_icon.png){:height="100px" width="100px"}
 
+## 29/07/2020
+
+- Ajout d'un champ de configuration pour l'utilisation d'un port personnalisé.
+
 ## 24/06/2020
 
 - Modification de l'icone pour passage en stable
