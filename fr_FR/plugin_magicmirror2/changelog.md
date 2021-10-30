@@ -2,6 +2,10 @@
 
 ![Icon](magicmirror2_icon.png){:height="100px" width="100px"}
 
+## 30/10/2021
+
+- Béta: ajout de la commande "Brightness"
+
 ## 18/06/2021
 
 - Béta: ajout des commandes monitorOn et monitorOFf
